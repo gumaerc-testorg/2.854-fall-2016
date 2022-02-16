@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: Analysis, control, and design of stochastic flow systems with limited storage.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-854-introduction-to-manufacturing-systems-fall-2016/7d082ec9b6520b5760f1d98c1c035ed7_MIT2_854F16_Analysis.pdf
+file: /media/courses/2-854-introduction-to-manufacturing-systems-fall-2016/7d082ec9b6520b5760f1d98c1c035ed7_MIT2_854F16_Analysis.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '2.854(F16) Introduction To Manufacturing Systems: Analysis, Control, and Design
   of Stochastic Flow Systems with Limited Storage'

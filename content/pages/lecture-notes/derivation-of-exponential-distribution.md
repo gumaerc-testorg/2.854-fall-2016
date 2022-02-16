@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 10dbcabc-062f-5677-9628-24c6d3457998
 title: Derivation of Exponential Distribution
 uid: 2fdb75f6-cf8c-6b73-88a5-e3c6af8731ce

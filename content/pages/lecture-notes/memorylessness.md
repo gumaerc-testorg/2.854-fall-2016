@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 10dbcabc-062f-5677-9628-24c6d3457998
 title: Memorylessness in exponential and geometric random variables
 uid: e7a7b880-51d3-2e09-4d40-8ab6ea8def0f
