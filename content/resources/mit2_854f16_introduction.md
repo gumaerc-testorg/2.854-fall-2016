@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10dbcabc-062f-5677-9628-24c6d3457998
 resourcetype: Document
 title: '2.854(F16) Introduction To Manufacturing Systems: Manufacturing Systems Overview'
 uid: 9b9b97f8-8c69-3390-a256-2dd7ecfa5a5c

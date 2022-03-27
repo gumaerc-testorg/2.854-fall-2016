@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10dbcabc-062f-5677-9628-24c6d3457998
 resourcetype: Other
 title: MM1_sim.fsm
 uid: f9b051de-de77-d2d6-2942-42e6dd897c78

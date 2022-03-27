@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10dbcabc-062f-5677-9628-24c6d3457998
 resourcetype: Document
 title: '2.854(F16) Introduction To Manufacturing Systems: Recycling Systems Engineering'
 uid: 044d7c49-a445-af91-ec2b-2901e0d157ca

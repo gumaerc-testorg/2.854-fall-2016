@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10dbcabc-062f-5677-9628-24c6d3457998
 resourcetype: Document
 title: '2.854(F16) Introduction To Manufacturing Systems: Optimization'
 uid: 283796c9-f072-9a97-f410-a65ca4b70471

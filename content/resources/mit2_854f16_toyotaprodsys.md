@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10dbcabc-062f-5677-9628-24c6d3457998
 resourcetype: Document
 title: '2.854(F16) Introduction To Manufacturing Systems: Toyota Production System'
 uid: c6e9d8ff-d833-7529-6f82-1a04e599e55b

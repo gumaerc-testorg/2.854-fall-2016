@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 10dbcabc-062f-5677-9628-24c6d3457998
 resourcetype: Document
 title: '2.854(F16) Introduction To Manufacturing Systems: Material Requirements Planning'
 uid: 4eec617b-b52d-64f4-ea1b-ed6d9905bc00
