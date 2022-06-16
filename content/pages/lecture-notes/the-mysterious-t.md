@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: "This section includes The Mysterious \u03C4 to support Lectures 12-14."
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes Derivation of Exponential Distribution to support
+  Lectures 5-6.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ uid: 2fdb75f6-cf8c-6b73-88a5-e3c6af8731ce
 
 The graph of the exponential distribution is shown in Figure 1.
 
-![Two circles labeled as 1 and 0 connected by an arc labeled as u.]({{< resource_file f902926e-42b3-d35f-e8fb-7989317232c5 >}})
+{{< resource f902926e-42b3-d35f-e8fb-7989317232c5 >}}
 
 Figure 1: Graph of Markov Process for Exponential Distribution. (Figure by MIT OpenCourseWare.)
 

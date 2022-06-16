@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes Notes on Covariance to support Lectures 3-4.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
