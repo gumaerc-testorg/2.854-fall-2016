@@ -6,6 +6,7 @@ file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/7d082ec9b65
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '2.854(F16) Introduction To Manufacturing Systems: Analysis, Control, and
 uid: 7d082ec9-b652-0b57-60f1-d98c1c035ed7
 ---
 This resource contains information regarding introduction to manufacturing systems: Analysis, control, and design of stochastic flow systems with limited storage.
-

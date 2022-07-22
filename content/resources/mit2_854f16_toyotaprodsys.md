@@ -6,6 +6,7 @@ file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/c6e9d8ffd83
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '2.854(F16) Introduction To Manufacturing Systems: Toyota Production Syst
 uid: c6e9d8ff-d833-7529-6f82-1a04e599e55b
 ---
 This resource contains information regarding introduction to manufacturing systems: Toyota production system.
-

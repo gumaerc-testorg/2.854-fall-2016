@@ -6,6 +6,7 @@ file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/f9b051dede7
 file_type: application/octet-stream
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MM1_sim.fsm
 uid: f9b051de-de77-d2d6-2942-42e6dd897c78
 ---
 This special file contains information regarding introduction to manufacturing systems.
-

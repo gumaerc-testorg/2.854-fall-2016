@@ -5,6 +5,7 @@ file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/df1bbc9af19
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT2_854F16 PSet 1
 uid: df1bbc9a-f19e-cb98-5ab3-88d03155da36
 ---
 Homework assignment 1
-

@@ -6,6 +6,7 @@ file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/9fd0a426a2f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '2.854(F16) Introduction To Manufacturing Systems: The Control Point Poli
 uid: 9fd0a426-a2f6-0427-e12b-3d4105c6c6d5
 ---
 This resource contains information regarding introduction to manufacturing systems: The control point policy.
-

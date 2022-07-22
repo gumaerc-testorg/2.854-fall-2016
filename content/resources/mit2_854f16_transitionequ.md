@@ -6,6 +6,7 @@ file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/f00917dcfd8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '2.854(F16) Introduction To Manufacturing Systems: An Example Of The Tran
 uid: f00917dc-fd8f-d248-3c2b-f650b15fc8c6
 ---
 This resource contains information regarding introduction to manufacturing systems: An example of the transition equations.
-

@@ -6,6 +6,7 @@ file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/4eec617bb52
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '2.854(F16) Introduction To Manufacturing Systems: Material Requirements 
 uid: 4eec617b-b52d-64f4-ea1b-ed6d9905bc00
 ---
 This resource contains information regarding introduction to manufacturing systems: Material requirements planning.
-

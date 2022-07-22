@@ -6,6 +6,7 @@ file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/dcf4056308c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '2.854(F16) Introduction To Manufacturing Systems: Single-Part-Type, Mult
 uid: dcf40563-08c4-f063-58bf-2abc71d16f1d
 ---
 This resource contains information regarding introduction to manufacturing systems: Single-part-type, multiple stage systems.
-

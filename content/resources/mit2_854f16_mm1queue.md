@@ -6,6 +6,7 @@ file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/927056a1af5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '2.854(F16) Introduction To Manufacturing Systems: M M 1 Queue'
 uid: 927056a1-af54-772a-587f-d84ad4951e71
 ---
 This resource contains information regarding introduction to manufacturing systems: M M 1 queue.
-

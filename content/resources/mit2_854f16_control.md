@@ -6,6 +6,7 @@ file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/e0b81846ce5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '2.854(F16) Introduction To Manufacturing Systems: Multi-Stage Control an
 uid: e0b81846-ce57-b20a-9586-5eac9fb67d9e
 ---
 This resource contains information regarding introduction to manufacturing systems: Multi-stage control and scheduling.
-
