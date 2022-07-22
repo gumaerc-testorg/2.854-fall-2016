@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: "This section includes The Mysterious \u03C4 to support Lectures 12-14."
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 10dbcabc-062f-5677-9628-24c6d3457998
 title: "The Mysterious \u03C4"
 uid: c3a7f219-65e4-2a06-2e8d-a2115ef5e35c

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section includes Notes on Covariance to support Lectures 3-4.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 10dbcabc-062f-5677-9628-24c6d3457998
 title: Notes on Covariance
 uid: 22d7a154-2d29-e700-d030-d20a501926ce
