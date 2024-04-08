@@ -88,7 +88,7 @@ SUPPORTING FILES
 {{% resource_link 6c8fec8f-99bc-f705-9b73-b82e96d43901 "Inventory (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Information Inaccuracy in Inventory Systems (PDF)](https://pdfs.semanticscholar.org/60c4/cc36c37c5cccac337a2d25e58d53e9081672.pdf)
+{{% resource_link "93816bac-d0bb-4b41-9b71-f962e57420ea" "Information Inaccuracy in Inventory Systems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
