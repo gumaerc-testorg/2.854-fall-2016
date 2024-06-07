@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: Probability.'
 file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/ceca795cd5a050b6d95f1986e1cd40c3_MIT2_854F16_Probability.pdf
+file_size: 573930
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
