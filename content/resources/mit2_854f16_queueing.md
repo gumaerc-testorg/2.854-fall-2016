@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: Markov processes and queues.'
 file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/5d3e9532c2ff6e156d48e41f9bd9576f_MIT2_854F16_Queueing.pdf
+file_size: 632180
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
