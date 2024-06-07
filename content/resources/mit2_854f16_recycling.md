@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: Recycling systems engineering.'
 file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/044d7c49a445af91ec2b2901e0d157ca_MIT2_854F16_Recycling.pdf
+file_size: 201558
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
