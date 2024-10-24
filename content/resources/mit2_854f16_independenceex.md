@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: Notes for lecture 3.'
-file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/fc020dc2785034410ad2853fb0637aed_MIT2_854F16_IndependenceEx.pdf
+file: /ol-ocw-studio-app/courses/2-854-introduction-to-manufacturing-systems-fall-2016/fc020dc2785034410ad2853fb0637aed_MIT2_854F16_IndependenceEx.pdf
 file_size: 779518
 file_type: application/pdf
 learning_resource_types:
