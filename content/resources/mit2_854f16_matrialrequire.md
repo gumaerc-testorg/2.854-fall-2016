@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: Material requirements planning.'
-file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/4eec617bb52d64f4ea1bed6d9905bc00_MIT2_854F16_MatrialRequire.pdf
+file: /ol-ocw-studio-app/courses/2-854-introduction-to-manufacturing-systems-fall-2016/4eec617bb52d64f4ea1bed6d9905bc00_MIT2_854F16_MatrialRequire.pdf
 file_size: 149992
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: LP examples.'
-file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/0b2ff52cac042a60403e72ddce64c3cf_MIT2_854F16_LpExample.pdf
+file: /ol-ocw-studio-app/courses/2-854-introduction-to-manufacturing-systems-fall-2016/0b2ff52cac042a60403e72ddce64c3cf_MIT2_854F16_LpExample.pdf
 file_size: 176065
 file_type: application/pdf
 learning_resource_types:
