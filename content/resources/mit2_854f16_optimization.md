@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: Optimization.'
-file: /ol-ocw-studio-app/courses/2-854-introduction-to-manufacturing-systems-fall-2016/283796c9f0729a97f410a65ca4b70471_MIT2_854F16_Optimization.pdf
+file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/283796c9f0729a97f410a65ca4b70471_MIT2_854F16_Optimization.pdf
 file_size: 670278
 file_type: application/pdf
 learning_resource_types:

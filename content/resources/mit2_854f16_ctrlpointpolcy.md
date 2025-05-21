@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: The control point policy.'
-file: /ol-ocw-studio-app/courses/2-854-introduction-to-manufacturing-systems-fall-2016/9fd0a426a2f60427e12b3d4105c6c6d5_MIT2_854F16_CtrlPointPolcy.pdf
+file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/9fd0a426a2f60427e12b3d4105c6c6d5_MIT2_854F16_CtrlPointPolcy.pdf
 file_size: 245361
 file_type: application/pdf
 learning_resource_types:

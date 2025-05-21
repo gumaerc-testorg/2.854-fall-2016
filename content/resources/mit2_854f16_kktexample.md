@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: KKT examples.'
-file: /ol-ocw-studio-app/courses/2-854-introduction-to-manufacturing-systems-fall-2016/6cbf08435a0e531bcfeb396636e216d5_MIT2_854F16_KktExample.pdf
+file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/6cbf08435a0e531bcfeb396636e216d5_MIT2_854F16_KktExample.pdf
 file_size: 184071
 file_type: application/pdf
 learning_resource_types:
