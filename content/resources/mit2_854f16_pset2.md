@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment 2
-file: /ol-ocw-studio-app/courses/2-854-introduction-to-manufacturing-systems-fall-2016/6e1bf656975fc62c51e029b3e3064907_MIT2_854F16_pset2.pdf
+file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/6e1bf656975fc62c51e029b3e3064907_MIT2_854F16_pset2.pdf
 file_size: 315367
 file_type: application/pdf
 learning_resource_types:
