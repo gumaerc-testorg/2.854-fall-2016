@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: Single-part-type, multiple stage systems.'
-file: /ol-ocw-studio-app/courses/2-854-introduction-to-manufacturing-systems-fall-2016/872f23705b7d329bfd6a4df923e01045_MIT2_854F16_SinglePart.pdf
+file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/872f23705b7d329bfd6a4df923e01045_MIT2_854F16_SinglePart.pdf
 file_size: 2315027
 file_type: application/pdf
 learning_resource_types:
