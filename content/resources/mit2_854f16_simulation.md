@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding introduction to manufacturing
   systems: Introduction to simulation.'
-file: /courses/2-854-introduction-to-manufacturing-systems-fall-2016/0dc16a918eabd3f47e3f6d573485dccf_MIT2_854F16_Simulation.pdf
+file: /ol-ocw-studio-app/courses/2-854-introduction-to-manufacturing-systems-fall-2016/0dc16a918eabd3f47e3f6d573485dccf_MIT2_854F16_Simulation.pdf
 file_size: 627690
 file_type: application/pdf
 learning_resource_types:
