@@ -26,17 +26,17 @@ Buzacott, John A., and J. George Shanthikumar. _Stochastic Models of Manufacturi
 
 Askin, Ronald G., and Charles R. Standridge. _Modeling and Analysis of Manufacturing Systems_. Wiley, 1993. ISBN: 9780471514183.
 
-Tempelmeier, Horst, and Heinrich Kuhn. _Flexible Manufacturing Systems: Decision Support for Design and Operation_. Wiley-Interscience, 1993. ISBN: 9780471307211. \[Preview with {{% resource_link "15a096ec-592c-4711-b63a-a45200e1c895" "Google Books" %}}\]
+Tempelmeier, Horst, and Heinrich Kuhn. _Flexible Manufacturing Systems: Decision Support for Design and Operation_. Wiley-Interscience, 1993. ISBN: 9780471307211. \[Preview with [Google Books](http://books.google.com/books?id=BGetKg0LsTkC&pg=PAfrontcover)\]
 
-Papadopoulos, H. T., C. Heavey, and J. Browne. _Queueing Theory in Manufacturing Systems Analysis and Design_. Chapman and Hall / CRC, 1993. ISBN: 9780412387203. \[Preview with {{% resource_link "bad593aa-1010-405b-9f08-2dc56a3a1b1e" "Google Books" %}}\]
+Papadopoulos, H. T., C. Heavey, and J. Browne. _Queueing Theory in Manufacturing Systems Analysis and Design_. Chapman and Hall / CRC, 1993. ISBN: 9780412387203. \[Preview with [Google Books](http://books.google.com/books?id=9pf5MCf9VDYC&pg=PAfrontcover)\]
 
-Altiok, Tayfur. _Performance Analysis of Manufacturing Systems_. Springer-Verlag New York Incorporated, 1997. \[Preview with {{% resource_link "f196f047-6650-43a8-b2ef-7a09e2c23337" "Google Books" %}}\]
+Altiok, Tayfur. _Performance Analysis of Manufacturing Systems_. Springer-Verlag New York Incorporated, 1997. \[Preview with [Google Books](http://books.google.com/books?id=tyce5vL5ZEAC&pg=PAfrontcover)\]
 
-Hopp, Wallace J., and Mark L. Spearman. _Factory Physics: Foundations of Manufacturing Management_. 3rd ed. Waveland Press Incorporated, 2011. ISBN: 9781577667391. \[Preview with {{% resource_link "e8f8a1a9-2690-4a75-8413-002a05be2ba0" "Google Books" %}}\]
+Hopp, Wallace J., and Mark L. Spearman. _Factory Physics: Foundations of Manufacturing Management_. 3rd ed. Waveland Press Incorporated, 2011. ISBN: 9781577667391. \[Preview with [Google Books](http://books.google.com/books?id=TfcWAAAAQBAJ&pg=PAfrontcover)\]
 
-Dolgui A., and J. M. Proth. {{% resource_link "7a04b09d-637d-491f-a569-a2f546a3a533" "_Les systèmes de production modernes. Tome 1 : Conception, gestion et optimisation_" %}}. Hermes Science Publications, 2006, p. 415. ISBN: 9782746212497. (In French)
+Dolgui A., and J. M. Proth. [_Les systèmes de production modernes. Tome 1 : Conception, gestion et optimisation_](https://www.researchgate.net/publication/257651415_Les_systemes_de_production_modernes_Tome_1_Conception_gestion_et_optimisation). Hermes Science Publications, 2006, p. 415. ISBN: 9782746212497. (In French)
 
-———. {{% resource_link "b865f05e-2274-4ea1-b4e8-7278ef2fd554" "_Les systèmes de production modernes. Tome 2 : Outils et corrigés des exercices coll finance gestion managem_" %}}. Hermes Science, 2006, p. 385. ISBN: 9782746212503. (In French)
+———. [_Les systèmes de production modernes. Tome 2 : Outils et corrigés des exercices coll finance gestion managem_](https://www.researchgate.net/publication/257651268_Les_systemes_de_production_modernes_Tome_2_Outils_et_corriges_des_exercices). Hermes Science, 2006, p. 385. ISBN: 9782746212503. (In French)
 
 Li , Jingshan, and Semyon M. Meerkov. _Production Systems Engineering_. Springer, 2008. ISBN: 9780387755780.
 
